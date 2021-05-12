@@ -84,6 +84,5 @@ def main():
 if __name__ == '__main__':
     main()
 
-
 if output_file:
     generate_output_file(result) 
